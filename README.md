@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hi there! I'm [Mohammed Tharick]
+# 👋 Hi there! I'm Mohammed Tharick
 
 🎓 **B.Sc. Computer Science Graduate** | 💻 **Aspiring Frontend Developer**  
 🚀 Passionate about crafting modern, responsive, and visually appealing web experiences.
