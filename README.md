@@ -1,61 +1,74 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#9D4EDD;">Mohammed Tharick</span>!</h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#9D4EDD;">Mohammed Tharick</span></h1>
 
 <p align="center">
-  🎓 <b>B.Sc. Computer Science Graduate</b> | 💻 <b>Frontend Developer</b> | 🚀 <b>Tech Enthusiast</b>
+  🎓 <b>B.Sc. Computer Science Graduate</b> |
+  💻 <b>Full-Stack MERN Developer</b> |
+  🚀 <b>Actively Seeking Developer Opportunities</b>
+</p>
+
+<p align="center">
+  <b>Building scalable, real-world web applications using the MERN stack</b>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Computer Science graduate** with a strong passion for **Frontend Development** and creating delightful digital experiences.  
-I love building projects that blend clean design, smooth user experience, and efficient code.  
+I'm a **Computer Science graduate and Full-Stack MERN Developer** with hands-on experience building **end-to-end web applications** — from responsive user interfaces to RESTful APIs and database design.
 
-✨ Always learning. Always improving.
+I focus on writing **clean, maintainable code**, following best practices, and building applications the way **real-world products** are structured.
 
-🔭 **Currently Exploring:** React, Tailwind CSS, and API Integrations  
-🌱 **Learning Goal:** To master full-stack development  
-💬 **Ask me about:** JavaScript, CSS, and responsive design  
-⚡ **Fun Fact:** My debug process involves 60% coffee, 30% music, and 10% magic 🪄
+✨ Curious mindset | Strong fundamentals | Continuous learner
+
+🔭 **Currently Working With:** MongoDB, Express, React, Node.js  
+🌱 **Learning Focus:** Backend optimization, authentication, and system design  
+💬 **Ask me about:** JavaScript, React, REST APIs, MongoDB  
+⚡ **Fun Fact:** Debugging productivity increases with ☕ + 🎧
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### 👨‍💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind" />
 </p>
 
 ### 🧰 Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,netlify,render" />
 </p>
 
 ---
 
 ## 🌟 Featured Projects
 
-| Project | Description | Tech Used |
-|----------|--------------|------------|
-| 🌤️ **Weather App** | Real-time weather info using WeatherAPI | HTML, CSS, JS |
-| 🎨 **Portfolio Website** | Personal responsive portfolio site | HTML, CSS, JS |
-| 🕹️ **Mini Games** | Fun browser-based games | JavaScript |
+| Project | Description | Tech Stack |
+|-------|-------------|------------|
+| 💪 **Workout Buddy** | Full-stack workout tracking app with CRUD operations | MERN Stack |
+| 📝 **Todo App** | REST-based Todo app with backend & database | MERN Stack |
+| 🌤️ **Weather App** | Real-time weather application using API | HTML, CSS, JS |
+| 🎨 **Portfolio Website** | Responsive personal portfolio | HTML, CSS, JS |
 
-> 💡 Explore more on my [GitHub Repositories](https://github.com/MohammedTharick25?tab=repositories)
+> 👉 **[View all repositories](https://github.com/MohammedTharick25?tab=repositories)**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedTharick25&show_icons=true&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedTharick25&layout=compact&theme=tokyonight" />
 </p>
 
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedTharick25&theme=tokyonight&hide_border=true" />
+</p>
+
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdtharick/" target="_blank">
@@ -74,7 +87,7 @@ I love building projects that blend clean design, smooth user experience, and ef
 
 ---
 
-## 💬 Quote I Live By
+## 💬 Developer Mindset
 
 > “First, solve the problem. Then, write the code.” – John Johnson
 
@@ -85,6 +98,5 @@ I love building projects that blend clean design, smooth user experience, and ef
 </p>
 
 <p align="center">
-  ⭐ If you like my projects, consider giving them a star — it really motivates me!
+  ⭐ If you like my work, consider giving a star — it helps a lot!
 </p>
-
