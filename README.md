@@ -57,13 +57,13 @@ I focus on writing **clean, maintainable code**, following best practices, and b
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedTharick25&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedTharick25&layout=compact&theme=tokyonight" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedTharick25&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedTharick25&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedTharick25&theme=tokyonight&hide_border=true" />
+ <img src="https://streak-stats.demolab.com?user=MohammedTharick25&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
