@@ -45,7 +45,7 @@ I focus on writing **clean, maintainable code**, following best practices, and b
 
 | Project | Description | Tech Stack |
 |-------|-------------|------------|
-| 🎨 **Solo Leveling System** | Gamified productivity app inspired by the famous Manhwa | MERN Stack |
+| ⭐ **Solo Leveling System** | Gamified productivity app inspired by the famous Manhwa | MERN Stack |
 | 💪 **Workout Buddy** | Full-stack workout tracking app with CRUD operations | MERN Stack |
 | 📝 **Todo App** | REST-based Todo app with backend & database | MERN Stack |
 | 🌤️ **Weather App** | Real-time weather application using API | HTML, CSS, JS |
